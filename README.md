@@ -1,5 +1,7 @@
 # musicode
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b38a6a7-7f3b-4545-ad9d-8101ca291e1c/deploy-status)](https://musicode.netlify.app/)
+
 ## Project setup
 ```
 npm install
