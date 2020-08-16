@@ -132,11 +132,10 @@ export default {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 body {
-  font-family: "Montserrat";
   background: #f2f2f2;
   display: grid;
   place-items: center;
